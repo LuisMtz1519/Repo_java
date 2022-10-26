@@ -1,0 +1,26 @@
+body{
+    background: rgb(234, 235, 238);
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: green;
+}
+.divsform{
+    padding-top: 20px;
+}
+.cont_info{
+    display: flex;
+    align-items: flex-end;
+}
+.operaciones{
+    padding-left: 250px;
+    padding-top: 150px;
+}
+
+.img-cont img{
+    height: 200px;
+    width: 250px;
+    padding-left: 100px;
+}
